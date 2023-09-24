@@ -1,0 +1,35 @@
+body{
+    font-family: arial;
+    
+}
+form{
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px;
+}
+.h1{
+    text-align: center;
+}
+input[type="submit"]:hover{
+    background-color: green;
+}
+input[type="submit"]{
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+}
+.politica{
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 12px;
+}
+textarea{
+    height: 100px;
+}
+.nave{
+    box-shadow: 0px 0px 10px;
+}
